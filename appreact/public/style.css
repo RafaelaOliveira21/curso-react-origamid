@@ -12,7 +12,7 @@ html {
   --color: #19f;
   --color-light: #adf;
   --color-dark: #018;
-  --radius: 0.2rem; 
+  --radius: 0.2rem;
 }
 
 body {
@@ -103,4 +103,3 @@ hr {
   border: 2px solid black;
   margin: 2rem auto;
 }
-
