@@ -28,7 +28,6 @@ const gabriel = {
 
 const App = () => {
   const dados = rafaela;
-  const dados1 = gabriel;
 
   const total = dados.compras
     .map((item) => Number(item.preco.replace('R$ ', '')))
